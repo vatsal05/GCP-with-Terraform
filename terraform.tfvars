@@ -1,0 +1,5 @@
+region ="europe-west2"
+name="dev"
+project="Myfirsttgcp"
+subnet_cidr="10.10.0.0/24"
+credentials="credentials.json"
